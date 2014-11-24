@@ -8,6 +8,7 @@ To execute, implement following libraries for Excel VBA
  * Microsoft HTML Object Library
  * Microsoft Internet Controls
  * Microsoft_JScript
+
 Import the .bas-File and you are ready to go
 
 #### How to use
