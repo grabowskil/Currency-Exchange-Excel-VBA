@@ -9,7 +9,7 @@ To execute, implement following libraries for Excel VBA
  * Microsoft Internet Controls
  * Microsoft_JScript
 
-Import the .bas-File and you are ready to go
+Import the .bas-file and you are ready to go
 
 #### How to use
 Inside of another script or in the worksheet use `GetExchange(Currency 1, Currency 2)` (use the [ISO 4217 names](http://en.wikipedia.org/wiki/ISO_4217#Active_codes "wikipedia.org")) to pull the exchange rate from yahoos server. Make sure, your IE (8 or higher) is configured to display .json-files.
