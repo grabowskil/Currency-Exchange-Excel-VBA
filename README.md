@@ -16,7 +16,7 @@ Inside of another script or in the worksheet use `GetExchange(Currency 1, Curren
 Because every new calculation requests a new pull I advise you to use this function (and refreshes) wisely, to keep ressource usage low, create a worksheet with the few exchange rates you need and don't use this function / formula excessively.
 
 #### Configure Internet Explorer to disply .json-files
-Create a new file anywhere you want and call it IE-json.reg.
+Create a new file anywhere you want and call it IE-json.reg (or use the .reg-file from this git).
 ```
 Windows Registry Editor Version 5.00;
 [HKEY_CLASSES_ROOT\MIME\Database\Content Type\application/json]
