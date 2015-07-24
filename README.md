@@ -23,4 +23,4 @@ Windows Registry Editor Version 5.00;
 "CLSID"="{25336920-03F9-11cf-8FD0-00AA00686F13}"
 "Encoding"=hex:08,00,00,00
 ```
-credits: http://www.codeproject.com/Tips/216175/View-JSON-in-Internet-Explorer
+credits: [Code Project](http://www.codeproject.com/Tips/216175/View-JSON-in-Internet-Explorer "codeproject.com")
